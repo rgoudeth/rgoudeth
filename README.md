@@ -1,8 +1,8 @@
 - 👋 Hola, Soy Raphalitiums @rgoudeth
 - 👀 estoy interesado en experimentar 
 - 🌱 estoy aprendiendo a programar
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ Quiero colaborar en construir La Conciencia Colectiva...
+- 📫 me puede localizar a través de mi e-mail.
 
 <!---
 rgoudeth/rgoudeth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
